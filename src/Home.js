@@ -32,7 +32,7 @@ function Home() {
 
   return (
     <>
-      <div className="container m-5 ">
+      <div className="container mt-5 mb-5">
       
         <div className="row gy-5">
 
